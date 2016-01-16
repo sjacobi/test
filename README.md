@@ -1,3 +1,2 @@
 # test
-NEW LINE
-NEW LINE 2
+clear
